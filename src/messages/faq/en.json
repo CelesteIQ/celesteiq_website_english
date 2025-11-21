@@ -1,0 +1,31 @@
+{
+  "faqHero": {
+    "title": "Resources / FAQ"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers about CelesteIQ's AI, Microsoft solutions, and global operations.",
+    "items": {
+      "item-1": {
+        "question": "What makes CelesteIQ different from other technology providers?",
+        "answer": "We specialize in connecting Artificial Intelligence with the real needs of your business, creating complete solutions within the Microsoft ecosystem (Azure, Power BI, Copilot, Dynamics, etc.)."
+      },
+      "item-2": {
+        "question": "Do I need prior AI experience to implement your solutions?",
+        "answer": "No—our team guides you through strategy, design, and implementation. We’ll identify the best use cases and deliver value quickly."
+      },
+      "item-3": {
+        "question": "Which sectors do you serve?",
+        "answer": "Finance, Healthcare, Manufacturing, Real Estate, and more. We tailor solutions to your industry’s compliance and operational needs."
+      },
+      "item-4": {
+        "question": "Do you offer subscription-based or project-based services?",
+        "answer": "Both. Choose ongoing subscription for continuous optimization or a fixed-scope project for targeted outcomes—whichever fits your goals."
+      },
+      "item-5": {
+        "question": "Where do you operate?",
+        "answer": "We support clients globally with remote delivery and regional partners when on-site presence is required."
+      }
+    }
+  }
+}

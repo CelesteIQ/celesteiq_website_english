@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "description": "AI-powered sales automation platform that helps businesses find, reach, and convert clients through multi-channel outreach and intelligent CRM tools.",
+        "company": {
+            "title": "Company",
+            "about": "About Us",
+            "contact": "Contact",
+            "support": "Support"
+        },
+        "resources": {
+            "title": "Resources",
+            "faq": "FAQ",
+            "privacy": "Privacy",
+            "terms": "Terms"
+        },
+        "contact": {
+            "title": "Contact Info",
+            "address": "60 Avenue Victor Hugo\n75116, Paris France"
+        },
+        "bottom": {
+            "tagline": "CELESTE IQ — SCALE • AUTOMATE • GROW",
+            "copyright": "© 2025 CELESTE IQ. All Rights Reserved.",
+            "privacyPolicy": "Privacy Policy",
+            "terms": "Terms",
+            "cookiePolicy": "Cookie Policy"
+        }
+    }
+}

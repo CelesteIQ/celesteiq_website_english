@@ -1,0 +1,28 @@
+{
+  "footer": {
+    "description": "Plataforma de automatización de ventas impulsada por IA que ayuda a las empresas a encontrar, contactar y convertir clientes mediante campañas multicanal y herramientas inteligentes de CRM.",
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre nosotros",
+      "contact": "Contacto",
+      "support": "Soporte"
+    },
+    "resources": {
+      "title": "Recursos",
+      "faq": "Preguntas frecuentes",
+      "privacy": "Privacidad",
+      "terms": "Términos"
+    },
+    "contact": {
+      "title": "Información de contacto",
+      "address": "60 Avenue Victor Hugo\n75116, París Francia"
+    },
+    "bottom": {
+      "tagline": "CELESTE IQ — ESCALAR • AUTOMATIZAR • CRECER",
+      "copyright": "© 2025 CELESTE IQ. Todos los derechos reservados.",
+      "privacyPolicy": "Política de privacidad",
+      "terms": "Términos",
+      "cookiePolicy": "Política de cookies"
+    }
+  }
+}

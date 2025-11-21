@@ -1,0 +1,26 @@
+{
+  "brand": "CelesteIQ",
+  "contact": {
+    "email": "support@celesteiq.com"
+  },
+  "packages": [
+    {
+      "id": "pack-1",
+      "name": "IT Administrator Pack",
+      "headline": "Comprehensive management with predictive vision",
+      "summary": "Continuous monitoring, alerts, reports, and remote admin for Microsoft 365 and Azure."
+    },
+    {
+      "id": "pack-2",
+      "name": "Power Platform Pack",
+      "headline": "Automate. Analyze. Improve.",
+      "summary": "AI-enhanced workflows with Power Automate, Power Apps, and Power BI."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How can I contact CelesteIQ?",
+      "a": "You can email us at support@celesteiq.com or use the contact form on the website."
+    }
+  ]
+}

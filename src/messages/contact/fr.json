@@ -1,0 +1,27 @@
+{
+    "contact": {
+        "heroTitle": "Transformons votre entreprise",
+        "heroSubtitle": "Prêt à adopter l’IA et les technologies Microsoft ? Contactez notre équipe d’experts et commencez dès aujourd’hui votre parcours de transformation numérique.",
+        "sectionTitle": "Contactez-nous",
+        "sectionDescription": "Nous nous engageons à traiter vos informations afin de vous recontacter et de discuter de votre projet.",
+        "emailLabel": "support@celesteiq.com",
+        "addressLabel": "60 Avenue Victor Hugo\n75116, Paris France",
+        "phoneLabel": "+33 1 42 38 98 11",
+        "form": {
+            "namePlaceholder": "Nom",
+            "emailPlaceholder": "E-mail",
+            "websitePlaceholder": "Site web",
+            "messagePlaceholder": "Message",
+            "submit": "Envoyer"
+        },
+        "whyChoose": {
+            "title": "Pourquoi choisir CelesteIQ ?",
+            "items": [
+                "Experts certifiés Microsoft spécialisés en IA",
+                "Historique démontré de déploiements réussis",
+                "Support et optimisation continus",
+                "Approche axée sur le retour sur investissement des technologies"
+            ]
+        }
+    }
+}

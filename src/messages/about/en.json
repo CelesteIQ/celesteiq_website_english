@@ -1,0 +1,38 @@
+{
+    "about": {
+        "title": "Empowering Businesses Through Intelligent Automation",
+        "cta": "Schedule a Free Consult",
+        "sectionTag": "ABOUT US",
+        "sectionHeading": "We provide enterprises with innovative technology for small to space enterprises",
+        "p1": "At CELESTE IQ, we believe lead generation should be intelligent, scalable, and effortless.",
+        "p2": "We are not just another outreach platform—we are your AI-powered growth engine. Built for recruiters, consultants, and B2B service providers, CELESTE IQ helps you automate 90% of your prospecting while maintaining real, human-like conversations that drive results.",
+        "p3": "Our smart agents don’t just send messages. They research, personalize, respond, follow up, and book meetings—so you can focus on closing deals, not chasing leads.",
+        "p4": "With access to over 300 million verified contacts, multi-channel outreach (Email, LinkedIn, SMS), and behavior-based engagement, we deliver high-converting campaigns that feel personal—because they are.",
+        "p5": "Whether you’re a solo operator or a scaling team, CELESTE IQ will help you turn outreach into outcomes—without the stress, spam, or guesswork.",
+        "p6": "Welcome to the future of smart B2B growth",
+        "valuesTitle": "Our values",
+        "valuesSubtitle": "We strive to redefine the standard of excellence.",
+        "values": {
+            "collaboration": {
+                "title": "Collaboration",
+                "description": "Collaboration is the process of two or more people or organizations working together to complete a task or achieve a goal."
+            },
+            "transparency": {
+                "title": "Transparency",
+                "description": "Transparency, as used in science, is operating in such a way that it is easy for others to see what actions are performed."
+            },
+            "trust": {
+                "title": "Trust",
+                "description": "Trust will help us foster a positive and productive environment that delivers value to our users and customers."
+            },
+            "integrity": {
+                "title": "Integrity",
+                "description": "Integrity is the practice of showing a consistent and uncompromising adherence to strong moral and ethical principles."
+            }
+        },
+        "teamTag": "OUR TEAM",
+        "teamTitle": "Experience and integrity by our team",
+        "teamDescription": "The right tools wielded by the right people to make anything possible. From year to year we strive to invent the most innovative technology produced by our creative people.",
+        "teamCta": "Meet our team"
+    }
+}

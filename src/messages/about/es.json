@@ -1,0 +1,38 @@
+{
+    "about": {
+        "title": "Empowering Businesses Through Intelligent Automation",
+        "cta": "Schedule a Free Consult",
+        "sectionTag": "SOBRE NOSOTROS",
+        "sectionHeading": "Ofrecemos a las empresas tecnología innovadora para organizaciones de todos los tamaños",
+        "p1": "En CELESTE IQ creemos que la generación de leads debe ser inteligente, escalable y sencilla.",
+        "p2": "No somos solo otra plataforma de outreach: somos tu motor de crecimiento impulsado por IA. Diseñado para reclutadores, consultores y proveedores de servicios B2B, CELESTE IQ te ayuda a automatizar el 90 % de tu prospección manteniendo conversaciones reales y humanas que generan resultados.",
+        "p3": "Nuestros agentes inteligentes no solo envían mensajes. Investigan, personalizan, responden, hacen seguimiento y agendan reuniones, para que tú puedas centrarte en cerrar negocios en lugar de perseguir contactos.",
+        "p4": "Con acceso a más de 300 millones de contactos verificados, outreach multicanal (email, LinkedIn, SMS) y engagement basado en el comportamiento, ofrecemos campañas de alta conversión que se sienten personales, porque lo son.",
+        "p5": "Tanto si eres un profesional independiente como si formas parte de un equipo en crecimiento, CELESTE IQ te ayuda a convertir el outreach en resultados, sin estrés, sin spam y sin adivinanzas.",
+        "p6": "Bienvenido al futuro del crecimiento B2B inteligente",
+        "valuesTitle": "Nuestros valores",
+        "valuesSubtitle": "Nos esforzamos por redefinir el estándar de excelencia.",
+        "values": {
+            "collaboration": {
+                "title": "Colaboración",
+                "description": "La colaboración es el proceso en el que dos o más personas u organizaciones trabajan juntas para completar una tarea o lograr un objetivo."
+            },
+            "transparency": {
+                "title": "Transparencia",
+                "description": "La transparencia, en ámbitos como la ciencia, significa operar de una forma en la que otros puedan ver claramente qué acciones se realizan."
+            },
+            "trust": {
+                "title": "Confianza",
+                "description": "La confianza nos ayuda a crear un entorno positivo y productivo que aporte valor a nuestros usuarios y clientes."
+            },
+            "integrity": {
+                "title": "Integridad",
+                "description": "La integridad es la práctica de mantener una adhesión constante e inquebrantable a sólidos principios morales y éticos."
+            }
+        },
+        "teamTag": "NUESTRO EQUIPO",
+        "teamTitle": "Experiencia e integridad de nuestro equipo",
+        "teamDescription": "Las herramientas adecuadas en manos de las personas correctas hacen posible cualquier cosa. Año tras año nos esforzamos por crear la tecnología más innovadora desarrollada por nuestro equipo creativo.",
+        "teamCta": "Conoce a nuestro equipo"
+    }
+}

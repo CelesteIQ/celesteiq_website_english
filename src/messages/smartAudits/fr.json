@@ -1,0 +1,75 @@
+{
+    "smartAudits": {
+        "heroTitle": "Audits intelligents pour l’évolution numérique",
+        "sectionTitle": "Services d’audit intelligent",
+        "sectionSubtitle": "Diagnostic, vision et stratégie pour l’évolution numérique de votre entreprise.",
+        "sectionBody": "Chez CelesteIQ, nous pensons que la véritable transformation digitale commence par la clarté. Nos audits intelligents combinent une expertise approfondie de l’écosystème Microsoft avec une analyse avancée pilotée par l’IA pour vous offrir une vision réelle de l’état technologique de votre entreprise et vous aider à construire une stratégie solide pour l’avenir. Un audit n’est pas seulement un contrôle technique : c’est le point de départ vers une entreprise plus intelligente, plus sûre et plus efficace.",
+        "sectionCta": "Découvrir nos services d’audit",
+        "iwaTitle": "Audit intelligent du poste de travail moderne",
+        "iwaSubtitle": "Évaluez la façon dont votre équipe travaille et découvrez comment elle peut s’améliorer.",
+        "iwaBody": "Microsoft 365 est une plateforme extrêmement puissante, mais de nombreuses entreprises n’utilisent que 20 à 30 % de ses capacités. Notre audit Modern Workplace analyse en détail la manière dont vos équipes utilisent des outils comme Teams, SharePoint, OneDrive, Outlook et Copilot, et met en lumière des opportunités d’optimisation capables de transformer l’efficacité opérationnelle de votre entreprise.",
+        "iwaWhatWeEvaluateTitle": "Que évaluons-nous ?",
+        "iwaEvaluatePoints": {
+            "1": "Adoption et utilisation des outils Microsoft 365",
+            "2": "Stratégies de collaboration, de partage de fichiers et de réunions",
+            "3": "Intégration avec Copilot et automatisation intelligente",
+            "4": "Structures d’équipe, droits d’accès et gouvernance",
+            "5": "Applications non utilisées ou sous-exploitées",
+            "6": "Expérience utilisateur et optimisation des workflows"
+        },
+        "iwaWhatYouReceiveTitle": "Que recevez-vous ?",
+        "iwaReceivePoints": {
+            "1": "Rapport visuel détaillé avec métriques d’usage et modèles détectés par l’IA",
+            "2": "Recommandations concrètes pour améliorer collaboration et productivité",
+            "3": "Feuille de route d’adoption avec quick wins prioritaires",
+            "4": "Évaluation de la préparation à Copilot",
+            "5": "Accompagnement pour la mise en œuvre des améliorations"
+        },
+        "iwaCta": "Demander votre audit intelligent Modern Workplace",
+        "iwaCardOptimized": "Optimisé",
+        "isaTitle": "Audit de sécurité intelligent",
+        "isaSubtitle": "Protection active, décisions éclairées.",
+        "isaBody": "La sécurité n’est plus optionnelle : c’est une priorité stratégique. Notre Audit de Sécurité Intelligent évalue votre environnement Microsoft 365, Azure et Entra ID avec une approche pilotée par l’IA, en identifiant les vulnérabilités, en détectant les anomalies et en simulant des scénarios d’attaque réels avant qu’ils ne se produisent. Nous ne livrons pas seulement un rapport : nous vous aidons à bâtir une culture de sécurité numérique résiliente.",
+        "isaAnalyzeTitle": "Que analysons-nous ?",
+        "isaAnalyzePoints": {
+            "1": "Politiques d’accès conditionnel et d’identité (Entra ID)",
+            "2": "Authentification multifacteur et stratégie zero trust",
+            "3": "Protection des données et DLP (Data Loss Prevention)",
+            "4": "Droits des utilisateurs et gestion des accès privilégiés",
+            "5": "Détection des menaces et comportements anormaux",
+            "6": "Conformité réglementaire (RGPD, ISO, etc.)",
+            "7": "Réponse automatisée aux incidents de sécurité"
+        },
+        "isaReceiveTitle": "Que recevez-vous ?",
+        "isaReceivePoints": {
+            "1": "Diagnostic de sécurité complet avec cartographie des risques",
+            "2": "Détection des menaces et anomalies pilotée par l’IA",
+            "3": "Plan d’action priorisé pour renforcer votre sécurité",
+            "4": "Accompagnement dans la mise en œuvre des politiques critiques",
+            "5": "Sensibilisation et formation de vos équipes"
+        },
+        "isaCta": "Planifiez votre audit de sécurité intelligent",
+        "whyTitle": "Pourquoi réaliser un audit avec CelesteIQ ?",
+        "whySubtitle": "Comprendre votre environnement est la première étape pour le maîtriser.",
+        "whyCards": {
+            "1": {
+                "title": "Vision globale",
+                "description": "Nous évaluons non seulement ce que vous avez, mais aussi la façon dont vous l’utilisez et comment l’améliorer."
+            },
+            "2": {
+                "title": "Approche prédictive",
+                "description": "Nous utilisons l’IA pour identifier des schémas, des anomalies et des opportunités avant qu’ils ne deviennent des problèmes."
+            },
+            "3": {
+                "title": "Recommandations concrètes",
+                "description": "Nous ne livrons pas de théorie : chaque audit inclut un plan d’action clair et priorisé."
+            },
+            "4": {
+                "title": "Accompagnement d’experts",
+                "description": "Notre équipe dispose de nombreuses années d’expérience sur les solutions Microsoft et les stratégies de transformation digitale."
+            }
+        },
+        "whyCtaMain": "Parlez avec un consultant CelesteIQ",
+        "whyCtaTail": "et planifiez votre diagnostic IA gratuit"
+    }
+}

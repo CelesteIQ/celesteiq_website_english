@@ -1,0 +1,276 @@
+{
+    "home": {
+        "titleLine1": "TRANSFORMEZ VOTRE",
+        "titleLine2Mobile": "ENTREPRISE AVEC L’IA + MICROSOFT",
+        "titleLine2Desktop1": "ENTREPRISE AVEC L’IA",
+        "titleLine2Desktop2": "+ MICROSOFT",
+        "taglineTop": "Automatisez vos workflows et changez d’échelle grâce à l’intelligence",
+        "taglineBottom": "Automatisez les tâches manuelles, réduisez les coûts et augmentez l’efficacité avec des solutions intelligentes",
+        "cta": "Planifier une consultation gratuite",
+        "microsoftAi": {
+            "titleMain": "Nous transformons les entreprises grâce à des solutions intelligentes",
+            "titleHighlight": " Microsoft et IA",
+            "card1Title": "Automatiser les processus",
+            "card1Body": "Simplifiez vos workflows et réduisez les erreurs grâce à une automatisation alimentée par l’IA qui s’intègre parfaitement à vos systèmes existants.",
+            "card2Title": "Prendre des décisions guidées par les données",
+            "card2Body": "Prenez des décisions plus rapides et plus pertinentes avec de l’analytique en temps réel et une intelligence prédictive intégrée à vos processus.",
+            "card3Title": "Booster la productivité",
+            "card3Body": "Équipez vos équipes d’outils IA qui soutiennent la croissance et éliminent les tâches répétitives, afin qu’elles se concentrent sur ce qui compte vraiment.",
+            "cta": "Planifier une consultation gratuite"
+        },
+        "aiFutureSection": {
+            "titleLine1": "La plupart des entreprises savent que l’IA est l’avenir",
+            "titleLine2": "Mais ne savent pas par où commencer",
+            "subtitle": "Nous transformons la confusion en clarté grâce à l’automatisation propulsée par Microsoft.",
+            "bullet1": "Éliminer le travail répétitif",
+            "bullet2": "Réduire les coûts opérationnels",
+            "bullet3": "Améliorer la précision et la vitesse",
+            "bullet4": "Donner plus de pouvoir à vos équipes",
+            "ctaMain": "Découvrir",
+            "ctaSuffix": "comment l’IA peut transformer votre entreprise dès aujourd’hui",
+            "beforeTime": "24h",
+            "beforeTimeLabel": "Avant : traitement manuel",
+            "afterTime": "10min",
+            "afterTimeLabel": "Après : automatisation par l’IA",
+            "beforeError": "15%",
+            "beforeErrorLabel": "Taux d’erreur",
+            "afterError": "0,5%",
+            "afterErrorLabel": "Taux d’erreur"
+        },
+        "aiTeamsSection": {
+            "title": "Transformez chaque équipe avec l’IA",
+            "subtitle": "Du service client à la finance, débloquez des solutions intelligentes propulsées par Microsoft AI.",
+            "nodes": {
+                "purchasing": "Achats",
+                "customerService": "Service client",
+                "finance": "Finance",
+                "accounting": "Comptabilité",
+                "hr": "RH",
+                "legal": "Juridique",
+                "operations": "Opérations",
+                "supplyChain": "Chaîne d’approvisionnement"
+            }
+        },
+        "planSection": {
+            "titleLine1": "Notre plan /",
+            "titleLine2": "Comment ça fonctionne",
+            "subtitle": "Trois étapes simples pour transformer votre entreprise avec l’IA",
+            "step1": {
+                "title": "Nous évaluons votre entreprise",
+                "body": "Nous analysons vos processus, vos points de friction et les opportunités où l’IA peut avoir un impact réel."
+            },
+            "step2": {
+                "title": "Nous mettons en place des solutions intelligentes",
+                "body": "Nous concevons et intégrons les outils Microsoft — Copilot, Dynamics 365, Power Automate, Azure AI et Fabric — adaptés à vos workflows."
+            },
+            "step3": {
+                "title": "Nous mesurons et faisons évoluer les résultats",
+                "body": "Nous suivons les KPI, optimisons les processus et étendons l’IA à d’autres domaines pour créer une valeur durable."
+            }
+        },
+        "focusBusinessSection": {
+            "titleLine1": "Vous vous concentrez sur votre activité",
+            "titleLine2": "Nous nous occupons de l’automatisation",
+            "subtitle": "Vous n’avez pas besoin d’une équipe IT pour moderniser votre entreprise — seulement du bon partenaire",
+            "cta": "Planifier une consultation gratuite",
+            "badges": {
+                "noHardware": "Aucun matériel requis",
+                "humanLoop": "Prêt pour Human-in-the-Loop",
+                "peaceMind": "Tranquillité d’esprit, zéro risque",
+                "simpleSetup": "Mise en place simple et sans prise de tête",
+                "noItTeam": "Pas besoin d’équipe IT interne",
+                "roiWeeks": "ROI en quelques semaines",
+                "minItResources": "Ressources IT minimales nécessaires"
+            }
+        },
+        "imagineAiSection": {
+            "title": "Imaginez l’IA travaillant pour vous",
+            "subtitle": "Pendant que vous vous concentrez sur la croissance de votre entreprise",
+            "cards": {
+                "customerService": {
+                    "title": "Service client",
+                    "body": "L’IA gère les demandes courantes 24h/24 et 7j/7",
+                    "alt": "Service client avec IA"
+                },
+                "dataAnalysis": {
+                    "title": "Analyse des données",
+                    "body": "Obtenez des insights à partir de vos données en quelques instants",
+                    "alt": "Tableaux de bord d’analyse de données"
+                }
+            },
+            "features": {
+                "autoResponses": "Réponses automatiques aux clients",
+                "salesFollowups": "Relances commerciales assistées par IA",
+                "hrAutomated": "Processus RH automatisés",
+                "moreStrategyTime": "Plus de temps pour la stratégie",
+                "customerSatisfaction": "Satisfaction client améliorée",
+                "consistentQuality": "Qualité homogène dans toutes les équipes"
+            }
+        },
+        "invoiceCompareSection": {
+            "titleLine1": "De workflows manuels à",
+            "titleHighlight": "une efficacité propulsée par l’IA",
+            "subtitle": "Découvrez comment l’automatisation intelligente transforme votre processus de facturation.",
+            "beforeLabel": "Avant",
+            "afterLabel": "Après",
+            "compareAlt": "Comparaison avant/après entre une facturation manuelle et une facturation automatisée par l’IA",
+            "beforeAlt": "Workflow de facturation manuelle avant l’automatisation par l’IA",
+            "dividerAlt": "Transition de processus entre facturation manuelle et facturation automatisée",
+            "afterAlt": "Workflow de facturation propulsée par l’IA après automatisation",
+            "resultLabel": "Résultat :",
+            "resultPart1": "Traitement plus rapide, moins d’erreurs et",
+            "resultHighlight": "70 % d’effort manuel en moins",
+            "resultPart2": "— ce qui libère vos équipes pour se concentrer sur la croissance."
+        },
+        "trustedPartnerSection": {
+            "titleLine1": "VOTRE PARTENAIRE DE CONFIANCE",
+            "titleHighlight": "POUR LA TRANSFORMATION PAR L’IA",
+            "centerImageAlt": "Quatre piliers clés de la transformation IA de CelesteIQ autour d’un visuel central",
+            "cards": {
+                "automation": {
+                    "title": "Automatisation",
+                    "body": "Maîtrisez facilement les tâches répétitives grâce à l’IA."
+                },
+                "analysis": {
+                    "title": "Analyse intelligente",
+                    "body": "Appliquez l’IA à vos workflows de données."
+                },
+                "innovation": {
+                    "title": "Innovation",
+                    "body": "Faites évoluer vos processus grâce à la créativité et à l’IA."
+                },
+                "security": {
+                    "title": "Sécurité",
+                    "body": "Assurez la conformité grâce à une gouvernance automatisée."
+                }
+            }
+        },
+        "videoSection": {
+            "title": "Découvrez comment fonctionne l’automatisation intelligente",
+            "subtitle": "Regardez un aperçu rapide de la façon dont CelesteIQ connecte l’IA et les outils Microsoft pour transformer vos opérations quotidiennes.",
+            "thumbnailAlt": "Aperçu de la vidéo de présentation de l’automatisation CelesteIQ",
+            "playAlt": "Lire la vidéo",
+            "playAria": "Lire la vidéo de présentation de l’automatisation",
+            "iframeTitle": "Vidéo de présentation de l’automatisation intelligente CelesteIQ"
+        },
+        "packagesSection": {
+            "title": "Choisissez votre pack",
+            "subtitle": "Des solutions flexibles qui évoluent avec votre entreprise",
+            "cta": "Commencer",
+            "idealForLabel": "Idéal pour :",
+            "card1": {
+                "title": "PACK ADMINISTRATEUR IT",
+                "subtitle": "Gestion complète de Microsoft 365",
+                "item1": "Supervision continue de Microsoft 365, Azure et Teams",
+                "item2": "Alertes anticipées alimentées par l’IA prédictive",
+                "item3": "Rapports automatisés de performance et de disponibilité",
+                "item4": "Support technique à distance et administration avancée",
+                "idealFor": "Les entreprises recherchant une stabilité opérationnelle et une efficacité technologique sans agrandir leur équipe IT."
+            },
+            "card2": {
+                "badge": "Le plus populaire",
+                "title": "PACK POWER PLATFORM",
+                "subtitle": "Automatiser. Analyser. Améliorer.",
+                "item1": "Éliminez les tâches répétitives et accélérez vos processus avec Power Automate, Power Apps et Power BI — le tout alimenté par l’IA.",
+                "item2": "Workflows intelligents avec IA intégrée",
+                "item3": "Intégration complète avec Microsoft Teams et Dynamics 365",
+                "idealFor": "Transformer vos données en actions et vos processus en opportunités."
+            },
+            "card3": {
+                "title": "PACK SÉCURITÉ INTELLIGENTE",
+                "subtitle": "Prévention, protection et réponse automatisée",
+                "body": "Nous combinons les outils les plus puissants de l’écosystème Microsoft — Defender, Entra ID et Azure Sentinel — avec des algorithmes d’IA capables de détecter les menaces en temps réel.",
+                "item1": "Analyse des vulnérabilités alimentée par l’IA",
+                "item2": "Surveillance des incidents 24h/24 et 7j/7",
+                "item3": "Alertes prédictives et apprentissage continu",
+                "item4": "Configuration de politiques de sécurité adaptatives",
+                "footer": "Protégez vos données avec intelligence, pas seulement par réaction."
+            }
+        },
+        "alliancesSection": {
+            "title": "Alliances d’excellence certifiée",
+            "body": "Partenaire certifié Microsoft Copilot Studio et alliances stratégiques pour fournir des solutions d’IA fiables et sécurisées."
+        },
+        "blogSection": {
+            "title": "Notre blog et nos ressources",
+            "subtitle": "Restez informé des tendances et des meilleures pratiques en IA",
+            "featured": {
+                "badge": "AI Insights",
+                "date": "25 oct. 2025",
+                "title": "L’avenir de l’IA en entreprise : 5 tendances à suivre en 2025",
+                "body": "Découvrez comment l’intelligence artificielle redessine le paysage des affaires et ce que cela signifie pour votre organisation.",
+                "cta": "Lire l’article"
+            },
+            "list": {
+                "strategy": {
+                    "badge": "Stratégie",
+                    "title": "Comment mesurer le ROI d’un projet d’IA",
+                    "date": "20 oct. 2025"
+                },
+                "technology": {
+                    "badge": "Technologie",
+                    "title": "Microsoft Copilot : guide complet",
+                    "date": "15 oct. 2025"
+                },
+                "caseStudies": {
+                    "badge": "Études de cas",
+                    "title": "Histoires de réussite en automatisation",
+                    "date": "10 oct. 2025"
+                }
+            }
+        },
+        "limitedOfferSection": {
+            "badge": "Offre limitée",
+            "titleLine1": "Lancez votre transformation IA",
+            "titleLine2": "Dès aujourd’hui",
+            "subtitle": "Rejoignez des centaines d’entreprises qui exploitent déjà l’IA pour croître plus vite et travailler plus intelligemment",
+            "primaryCta": "Planifier une consultation gratuite",
+            "secondaryCta": "Voir les tarifs",
+            "footnote": "Aucune carte de crédit requise. Commencez en quelques minutes."
+        },
+        "aiAssistantContact": {
+            "title": "Offrez un assistant digital à votre équipe",
+            "subtitle": "Discutons de la manière dont l’IA peut transformer votre entreprise",
+            "cardTitle": "Assistant IA 24/7",
+            "cardBody": "Imaginez un assistant digital infatigable qui gère les demandes clients, traite les données et orchestre les workflows pendant que votre équipe se concentre sur la croissance stratégique.",
+            "bullet1": "Temps de réponse instantanés",
+            "bullet2": "Zéro erreur et zéro retard",
+            "bullet3": "S’adapte à la croissance de votre entreprise",
+            "form": {
+                "nameLabel": "Nom complet",
+                "namePlaceholder": "Jean Dupont",
+                "emailLabel": "Adresse e-mail",
+                "emailPlaceholder": "jean@entreprise.com",
+                "companyLabel": "Nom de l’entreprise",
+                "companyPlaceholder": "Votre entreprise",
+                "needsLabel": "Parlez-nous de vos besoins",
+                "needsPlaceholder": "Je suis intéressé par...",
+                "button": "Envoyer le message"
+            }
+        }
+    },
+    "successStories": {
+        "title": "Nos histoires de succès",
+        "subtitle": "Découvrez les entreprises que nous avons transformées grâce à l’IA",
+        "items": {
+            "michaelChen": {
+                "quote": "Les solutions d’automatisation fournies par Celeste iQ ont révolutionné notre gestion du service client. Les temps de réponse se sont améliorés de 75 % tout en maintenant un niveau de qualité élevé.",
+                "name": "Michael Chen",
+                "role": "Directeur des opérations chez DataSystems Inc",
+                "initials": "MC"
+            },
+            "sofiaRamirez": {
+                "quote": "Celeste iQ nous a aidés à connecter des systèmes isolés et à débloquer des insights en temps réel. Nos équipes agissent désormais sur la base des données, et non de l’intuition.",
+                "name": "Sofia Ramirez",
+                "role": "Responsable Analytique chez Nova Group",
+                "initials": "SR"
+            },
+            "davidPark": {
+                "quote": "De l’onboarding à la phase de montée en charge, l’expérience a été fluide. Les coûts ont baissé et notre NPS client est à son plus haut niveau.",
+                "name": "David Park",
+                "role": "VP Expérience Client chez Helio",
+                "initials": "DP"
+            }
+        }
+    }
+}

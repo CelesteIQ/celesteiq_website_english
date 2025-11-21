@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "description": "Plateforme d’automatisation des ventes basée sur l’IA qui aide les entreprises à trouver, atteindre et convertir des clients grâce à des campagnes multicanales et des outils CRM intelligents.",
+        "company": {
+            "title": "Entreprise",
+            "about": "À propos",
+            "contact": "Contact",
+            "support": "Support"
+        },
+        "resources": {
+            "title": "Ressources",
+            "faq": "FAQ",
+            "privacy": "Confidentialité",
+            "terms": "Conditions"
+        },
+        "contact": {
+            "title": "Informations de contact",
+            "address": "60 Avenue Victor Hugo\n75116, Paris France"
+        },
+        "bottom": {
+            "tagline": "CELESTE IQ — DÉVELOPPER • AUTOMATISER • CROÎTRE",
+            "copyright": "© 2025 CELESTE IQ. Tous droits réservés.",
+            "privacyPolicy": "Politique de confidentialité",
+            "terms": "Conditions",
+            "cookiePolicy": "Politique de cookies"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "legal": {
+        "heroTitle": "Legal Notes",
+        "sectionTitle": "Legal Notices",
+        "sectionSubtitle": "Transparency, privacy, and trust in every digital interaction.",
+        "sectionSubtitleLinkLabel": "Official legal reference:",
+        "siteOwner": {
+            "title": "Site Owner",
+            "companyLabel": "Company:",
+            "company": "CelesteIQ",
+            "legalNameLabel": "Legal Name:",
+            "legalName": "CelesteIQ Technologies, Inc.",
+            "businessTypeLabel": "Business Type:",
+            "businessType": "Technology Consulting and Digital Transformation Services"
+        },
+        "dataProtection": {
+            "title": "Data Protection",
+            "p1": "CelesteIQ is committed to protecting the privacy of its clients and visitors. Data collected is used solely for contact and service improvement, in compliance with GDPR.",
+            "p2": "We implement industry-standard security measures to safeguard your information and ensure it is processed lawfully, fairly, and transparently."
+        },
+        "intellectualProperty": {
+            "title": "Intellectual Property",
+            "p1": "All content on this website, including but not limited to logos, text, graphics, images, and software, is the property of CelesteIQ and protected by international copyright laws.",
+            "p2": "Unauthorized reproduction, distribution, or modification of any materials from this website is strictly prohibited without express written permission from CelesteIQ."
+        },
+        "cookiePolicy": {
+            "title": "Cookie Policy",
+            "p1": "This site uses technical and analytical cookies to enhance your browsing experience. These cookies help us understand how visitors interact with our website and allow us to improve our services.",
+            "p2": "By continuing to use this site, you consent to our use of cookies in accordance with our privacy policy."
+        },
+        "contactSection": {
+            "title": "Contact",
+            "body": "For any legal or privacy-related inquiries, please contact:",
+            "emailLabel": "legal@celesteiq.com"
+        }
+    }
+}

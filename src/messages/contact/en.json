@@ -1,0 +1,27 @@
+{
+    "contact": {
+        "heroTitle": "Let's Transform Your Business",
+        "heroSubtitle": "Ready to embrace AI and Microsoft technologies? Get in touch with our team of experts and start your digital transformation journey today.",
+        "sectionTitle": "Contact Us",
+        "sectionDescription": "We are committed to processing the information in order to contact you and talk about your project.",
+        "emailLabel": "support@celesteiq.com",
+        "addressLabel": "60 Avenue Victor Hugo\n75116, Paris France",
+        "phoneLabel": "+33 1 42 38 98 11",
+        "form": {
+            "namePlaceholder": "Name",
+            "emailPlaceholder": "Email",
+            "websitePlaceholder": "Website",
+            "messagePlaceholder": "Message",
+            "submit": "Submit"
+        },
+        "whyChoose": {
+            "title": "Why Choose CelesteIQ?",
+            "items": [
+                "Microsoft-certified experts with AI specialization",
+                "Proven track record of successful implementations",
+                "Ongoing support and optimization",
+                "ROI-focused approach to technology investments"
+            ]
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "resources": {
+        "heroTitle": "CelesteIQ Resources",
+        "heroSubtitle": "Intelligent Transformation Journey. A proven methodology that takes you from where you are to where you want to be.",
+        "sectionTitle": "CelesteIQ Resources",
+        "sectionSubtitle": "Explore our collection of insights, answers, and information about AI-powered digital transformation.",
+        "cards": {
+            "blog": {
+                "title": "Blog",
+                "description": "Learn, explore, and get inspired by the latest trends in Artificial Intelligence and Digital Transformation.",
+                "button": "Explore Articles"
+            },
+            "faq": {
+                "title": "FAQ",
+                "description": "Find answers about CelesteIQ's AI, Microsoft solutions, and global operations.",
+                "button": "Get Answer"
+            },
+            "legal": {
+                "title": "Legal Notices",
+                "description": "Transparency, privacy, and trust in every digital interaction.",
+                "button": "View Details"
+            }
+        }
+    },
+    "process": {
+        "title": "Our Process",
+        "subtitle": "Intelligent Transformation Journey. A proven methodology that takes you from where you are to where you want to be.",
+        "steps": {
+            "1": {
+                "title": "Evaluation & Diagnosis",
+                "description": "We assess your infrastructure, workflows, and culture to identify gaps and opportunities for AI value. Our comprehensive analysis provides a clear picture of where you are and where you can go."
+            },
+            "2": {
+                "title": "Digital Strategy Design",
+                "description": "Create a customized roadmap for Microsoft 365, Power Platform, and Azure AI aligned with your business goals. We design a strategy that balances quick wins with long-term transformation."
+            },
+            "3": {
+                "title": "Implementation & Automation",
+                "description": "Integrate tools, optimize performance, and ensure security and compliance. Our expert team handles the technical complexity while keeping your business running smoothly."
+            },
+            "4": {
+                "title": "Training & Adoption",
+                "description": "Support your teams with comprehensive training and ensure seamless technology integration. We create champions within your organization who drive adoption and excellence."
+            },
+            "5": {
+                "title": "Monitoring & Evolution",
+                "description": "Track performance, adapt strategies, and continuously innovate. We provide ongoing support and optimization to ensure your technology investment delivers lasting value."
+            }
+        }
+    }
+}

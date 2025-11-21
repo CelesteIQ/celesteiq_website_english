@@ -1,0 +1,168 @@
+{
+    "solutions": {
+        "hero": {
+            "line1": "Des solutions intelligentes pour",
+            "line2": "booster votre entreprise",
+            "line3": "avec l’IA et Microsoft",
+            "subtitle": "Chez CelesteIQ, nous associons la puissance de l’écosystème Microsoft à celle de l’Intelligence Artificielle pour proposer des services qui ont un véritable impact."
+        }
+    },
+    "cta": {
+        "text": "Nos packs, audits et solutions spécialisées vous accompagnent de la stratégie à la mise en œuvre, pour construire une entreprise plus efficace, connectée et prête pour l’avenir.",
+        "primary": "Découvrir les packs",
+        "secondary": "Contacter un expert",
+        "stack": {
+            "ai": "Assistant IA",
+            "m365": "Microsoft 365",
+            "azure": "Azure",
+            "power": "Power Platform"
+        }
+    },
+    "intro": {
+        "titleLine1": "Implémentez. Automatisez.",
+        "titleLine2": "Évoluez.",
+        "titleLine3": "avec Microsoft + IA",
+        "body1": "Chez CelesteIQ, nous savons que chaque entreprise se trouve à un stade différent de son parcours de transformation digitale. C’est pourquoi nous avons conçu des packs intelligents qui intègrent les outils de l’écosystème Microsoft avec des capacités d’Intelligence Artificielle appliquée — pour vous aider à avancer avec rapidité, sécurité et clarté.",
+        "body2": "Notre objectif : faire en sorte que la technologie travaille pour vous — et non l’inverse.",
+        "bullets": {
+            "speedTitle": "Vitesse et agilité",
+            "speedDesc": "Mise en œuvre rapide avec des résultats mesurables",
+            "aiTitle": "Intelligence pilotée par l’IA",
+            "aiDesc": "Automatisation intelligente et insights prédictifs",
+            "evolutionTitle": "Évolution continue",
+            "evolutionDesc": "Solutions évolutives qui grandissent avec vous"
+        },
+        "cards": {
+            "azureTitle": "Azure",
+            "azureSubtitle": "Infrastructure cloud",
+            "m365Title": "Microsoft 365",
+            "m365Subtitle": "Suite de productivité",
+            "powerTitle": "Power Platform",
+            "powerSubtitle": "Outils low-code",
+            "copilotTitle": "Copilot",
+            "copilotSubtitle": "Assistant IA",
+            "ecosystem": "Écosystème intégré"
+        }
+    },
+    "pack1": {
+        "badge": "PACK 1",
+        "title": "Pack Administrateur IT",
+        "highlightLine1": "Gestion complète",
+        "highlightLine2": "avec vision prédictive",
+        "description": "Maintenez votre environnement Microsoft 365 toujours optimisé, sécurisé et sous contrôle. Avec le Pack Administrateur IT Intelligent, nous combinons supervision humaine et automatisation pilotée par l’IA pour détecter les problèmes avant qu’ils n’impactent la productivité.",
+        "bullets": {
+            "1": "Surveillance continue de Microsoft 365, Azure et Teams",
+            "2": "Alertes précoces générées par une IA prédictive",
+            "3": "Rapports automatisés de performance et de disponibilité",
+            "4": "Support technique à distance et administration avancée"
+        },
+        "ctaMain": "Demandez votre évaluation gratuite de l’environnement IT",
+        "ctaTail": "",
+        "note": "Idéal pour les entreprises recherchant stabilité opérationnelle et efficacité technologique sans agrandir leur équipe IT."
+    },
+    "pack2": {
+        "badge": "PACK 2",
+        "title": "Pack Power Platform",
+        "highlight": "Automatisez. Analysez. Améliorez.",
+        "description": "Éliminez les tâches répétitives et accélérez vos processus avec Power Automate, Power Apps et Power BI — renforcés par l’IA. Nous vous aidons à connecter vos applications, visualiser les données clés et prendre des décisions plus rapides basées sur les données.",
+        "bullets": {
+            "1": "Flux de travail intelligents avec IA intégrée",
+            "2": "Tableaux de bord en temps réel avec Power BI",
+            "3": "Applications personnalisées avec Power Apps",
+            "4": "Intégration complète avec Microsoft Teams et Dynamics 365"
+        },
+        "note": "Transformez vos données en actions et vos processus en opportunités.",
+        "cta": "Planifier une démonstration personnalisée"
+    },
+    "pack4": {
+        "badge": "PACK 4",
+        "title": "Pack Sécurité Intelligente",
+        "highlightLine1": "Prévention, protection et",
+        "highlightLine2": "réponse automatisée",
+        "description": "Votre sécurité ne devrait jamais dépendre de la chance. Avec ce pack, nous combinons les outils les plus puissants de l’écosystème Microsoft — Defender, Entra ID, Azure Sentinel — avec des algorithmes d’IA capables de détecter les menaces en temps réel.",
+        "bullets": {
+            "1": "Analyse des vulnérabilités avec IA",
+            "2": "Surveillance des incidents 24h/24 et 7j/7",
+            "3": "Alertes prédictives et apprentissage continu",
+            "4": "Configuration de politiques de sécurité adaptatives"
+        },
+        "note": "Protégez vos données avec intelligence, pas par réaction.",
+        "cta": "Demander votre diagnostic de sécurité IA",
+        "cards": {
+            "threatDetectionTitle": "Détection des menaces",
+            "threatDetectionStatus": "Actif",
+            "threatDetectionPercent": "100 %",
+            "aiThreatTitle": "Analyse des menaces par IA",
+            "aiThreatLevel": "Moyen",
+            "aiThreatDescription": "Tentative de connexion suspecte détectée",
+            "aiThreatMeta": "Localisation : IP inconnue • Bloquée automatiquement",
+            "policiesTitle": "Politiques de sécurité",
+            "policiesRules": "Règles",
+            "policiesBreaches": "Incidents",
+            "policiesMonitor": "Surveillance",
+            "autoResponseTitle": "Réponse automatisée",
+            "autoResponseSubtitle": "Atténuation des menaces pilotée par l’IA active"
+        }
+    },
+    "pack3": {
+        "badge": "PACK 3",
+        "title": "Pack Modern Workplace",
+        "highlightLine1": "Productivité renforcée avec",
+        "highlightLine2": "Copilot",
+        "description": "Réinventez la collaboration dans votre entreprise avec Microsoft 365, Teams, SharePoint et Copilot. Nous créons des environnements numériques où vos équipes peuvent communiquer, créer et prendre de meilleures décisions grâce au support de l’IA intégrée.",
+        "bullets": {
+            "1": "Mise en œuvre complète de Microsoft 365",
+            "2": "Intégration de Copilot et d’assistants virtuels personnalisés",
+            "3": "Automatisation des flux de communication",
+            "4": "Sécurité avancée des données"
+        },
+        "quote": "« Une intelligence artificielle qui amplifie la créativité humaine. »",
+        "cta": "Parlez à un spécialiste Modern Workplace",
+        "cards": {
+            "teamsTitle": "Collaboration d’équipe",
+            "teamsSubtitle": "Microsoft Teams",
+            "teamsBody": "Réunion planifiée avec résumé généré par l’IA",
+            "teamsParticipantsSuffix": "participants",
+            "teamsFooter": "Espace de collaboration actif",
+            "copilotTitle": "Assistant Copilot",
+            "copilotSubtitle": "Productivité augmentée par l’IA",
+            "copilotPrompt": "Comment puis-je vous aider aujourd’hui ?",
+            "copilotActions": {
+                "1": "Résumer ce document",
+                "2": "Rédiger une réponse email",
+                "3": "Créer une présentation"
+            },
+            "copilotStatus": "Assistant IA actif",
+            "statEfficiencyLabel": "Efficacité",
+            "statSavedLabel": "Heures gagnées/jour",
+            "statAdoptionLabel": "Adoption"
+        },
+        "whyPackages": {
+            "titleLine1": "Pourquoi choisir",
+            "titleHighlight": "les packs CelesteIQ ?",
+            "subtitle": "Nous proposons des solutions intelligentes qui transforment votre façon de travailler",
+            "cards": {
+                "1": {
+                    "title": "Automatisation intelligente",
+                    "desc": "Moins de tâches manuelles, plus de résultats"
+                },
+                "2": {
+                    "title": "Analyse continue par IA",
+                    "desc": "Des décisions guidées par les données, pas par les suppositions"
+                },
+                "3": {
+                    "title": "Intégration complète avec Microsoft",
+                    "desc": "Productivité, sécurité et collaboration unifiées"
+                },
+                "4": {
+                    "title": "Accompagnement d’experts",
+                    "desc": "De la mise en œuvre au support quotidien"
+                }
+            },
+            "noteTitle": "L’innovation ne s’improvise pas.",
+            "noteSubtitle": "Elle se conçoit, se forme et se mesure.",
+            "ctaMain": "Parlez-nous",
+            "ctaExtra": "et découvrez quel pack correspond le mieux à votre entreprise"
+        }
+    }
+}

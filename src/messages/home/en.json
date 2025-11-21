@@ -1,0 +1,276 @@
+{
+    "home": {
+        "titleLine1": "TRANSFORM YOUR",
+        "titleLine2Mobile": "BUSINESS WITH AI + MICROSOFT",
+        "titleLine2Desktop1": "BUSINESS WITH AI",
+        "titleLine2Desktop2": "+ MICROSOFT",
+        "taglineTop": "Automate your Workflows, and Scale with Intelligence",
+        "taglineBottom": "Automate manual tasks, cut costs, and boost efficiency with intelligent solutions",
+        "cta": "Schedule a Free Consult",
+        "microsoftAi": {
+            "titleMain": "We transform businesses with intelligent",
+            "titleHighlight": " Microsoft and AI solutions",
+            "card1Title": "Automate Processes",
+            "card1Body": "Simplify workflows and minimize errors with AI-powered automation that works seamlessly with your existing systems.",
+            "card2Title": "Drive Decisions with Data",
+            "card2Body": "Make faster, smarter decisions with real-time analytics and predictive intelligence built into your processes.",
+            "card3Title": "Boost Productivity",
+            "card3Body": "Equip teams with AI tools that scale growth and eliminate repetitive tasks, letting them focus on what matters.",
+            "cta": "Schedule a Free Consult"
+        },
+        "aiFutureSection": {
+            "titleLine1": "Most Companies Know AI Is The Future",
+            "titleLine2": "But Don't Know Where To Start",
+            "subtitle": "We turn confusion into clarity with Microsoft-powered automation.",
+            "bullet1": "Eliminate repetitive work",
+            "bullet2": "Reduce operational costs",
+            "bullet3": "Improve accuracy & speed",
+            "bullet4": "Empower your team",
+            "ctaMain": "Discover",
+            "ctaSuffix": "how AI can transform your business today",
+            "beforeTime": "24hrs",
+            "beforeTimeLabel": "Before: Manual Processing",
+            "afterTime": "10min",
+            "afterTimeLabel": "After: AI Automation",
+            "beforeError": "15%",
+            "beforeErrorLabel": "Error Rate",
+            "afterError": "0.5%",
+            "afterErrorLabel": "Error Rate"
+        },
+        "aiTeamsSection": {
+            "title": "Transform Every Team with AI",
+            "subtitle": "From Customer Service to Finance, unlock intelligent solutions powered by Microsoft AI.",
+            "nodes": {
+                "purchasing": "Purchasing",
+                "customerService": "Customer Service",
+                "finance": "Finance",
+                "accounting": "Accounting",
+                "hr": "HR",
+                "legal": "Legal",
+                "operations": "Operations",
+                "supplyChain": "Supply Chain"
+            }
+        },
+        "planSection": {
+            "titleLine1": "Our Plan /",
+            "titleLine2": "How It Works",
+            "subtitle": "Three Simple Steps to Transform Your Business with AI",
+            "step1": {
+                "title": "We Evaluate Your Business",
+                "body": "We analyze your processes, pain points, and opportunities where AI can generate real impact."
+            },
+            "step2": {
+                "title": "We Implement Smart Solutions",
+                "body": "We design and integrate Microsoft tools — Copilot, Dynamics 365, Power Automate, Azure AI, and Fabric — tailored to your workflow."
+            },
+            "step3": {
+                "title": "We Measure and Scale Results",
+                "body": "We monitor KPIs, optimize processes, and expand AI to other areas for sustainable value."
+            }
+        },
+        "focusBusinessSection": {
+            "titleLine1": "You Focus On Your Business",
+            "titleLine2": "We Handle The Automation",
+            "subtitle": "You don’t need an IT team to modernize your business—just the right partner",
+            "cta": "Schedule a Free Consult",
+            "badges": {
+                "noHardware": "No Hardware Needed",
+                "humanLoop": "Human-in-the-Loop Ready",
+                "peaceMind": "Peace of Mind, Zero Risk",
+                "simpleSetup": "Simple, Hassle-Free Setup",
+                "noItTeam": "No In-House IT Team Required",
+                "roiWeeks": "ROI Within Weeks",
+                "minItResources": "Minimal IT Resources Needed"
+            }
+        },
+        "imagineAiSection": {
+            "title": "Imagine AI Working For You",
+            "subtitle": "While you focus on growing your business",
+            "cards": {
+                "customerService": {
+                    "title": "Customer Service",
+                    "body": "AI handles routine inquiries 24/7",
+                    "alt": "Customer service with AI"
+                },
+                "dataAnalysis": {
+                    "title": "Data Analysis",
+                    "body": "Get insights from your data instantly",
+                    "alt": "Data analysis dashboards"
+                }
+            },
+            "features": {
+                "autoResponses": "Automatic responses to customers",
+                "salesFollowups": "AI-assisted sales follow-ups",
+                "hrAutomated": "HR processes automated",
+                "moreStrategyTime": "More time for strategy",
+                "customerSatisfaction": "Enhanced customer satisfaction",
+                "consistentQuality": "Consistent quality across teams"
+            }
+        },
+        "invoiceCompareSection": {
+            "titleLine1": "From Manual Workflows to",
+            "titleHighlight": "AI-Powered Efficiency",
+            "subtitle": "See how intelligent automation transforms your invoicing process.",
+            "beforeLabel": "Before",
+            "afterLabel": "After",
+            "compareAlt": "Before and after comparison of manual vs AI-powered invoicing workflows",
+            "beforeAlt": "Manual invoicing workflow before AI automation",
+            "dividerAlt": "Process transition between manual and automated invoicing",
+            "afterAlt": "AI-powered invoicing workflow after automation",
+            "resultLabel": "Result:",
+            "resultPart1": "Faster processing, fewer errors, and",
+            "resultHighlight": "70% less manual effort",
+            "resultPart2": "— freeing your team to focus on growth."
+        },
+        "trustedPartnerSection": {
+            "titleLine1": "YOUR TRUSTED PARTNER",
+            "titleHighlight": "IN AI TRANSFORMATION",
+            "centerImageAlt": "Four key pillars of CelesteIQ AI transformation around a central graphic",
+            "cards": {
+                "automation": {
+                    "title": "Automation",
+                    "body": "Control repetitive tasks easily with AI."
+                },
+                "analysis": {
+                    "title": "Intelligent Analysis",
+                    "body": "Apply AI to your data workflows."
+                },
+                "innovation": {
+                    "title": "Innovation",
+                    "body": "Drive smarter processes through creativity."
+                },
+                "security": {
+                    "title": "Security",
+                    "body": "Ensure compliance with automated governance."
+                }
+            }
+        },
+        "videoSection": {
+            "title": "See How Intelligent Automation Works",
+            "subtitle": "Watch a quick overview of how CelesteIQ connects AI and Microsoft tools to transform your daily operations.",
+            "thumbnailAlt": "Preview of CelesteIQ automation overview video",
+            "playAlt": "Play video",
+            "playAria": "Play the automation overview video",
+            "iframeTitle": "CelesteIQ intelligent automation overview video"
+        },
+        "packagesSection": {
+            "title": "Choose Your Package",
+            "subtitle": "Flexible solutions that scale with your business",
+            "cta": "Get Started",
+            "idealForLabel": "Ideal for:",
+            "card1": {
+                "title": "IT ADMINISTRATOR PACK",
+                "subtitle": "Comprehensive Microsoft 365 Management",
+                "item1": "Continuous monitoring of Microsoft 365, Azure, and Teams",
+                "item2": "Early alerts powered by predictive AI",
+                "item3": "Automated performance and availability reports",
+                "item4": "Remote technical support and advanced administration",
+                "idealFor": "Companies seeking operational stability and technological efficiency without expanding their IT team."
+            },
+            "card2": {
+                "badge": "Most Popular",
+                "title": "POWER PLATFORM PACK",
+                "subtitle": "Automate. Analyze. Improve.",
+                "item1": "Eliminate repetitive tasks and accelerate your processes with Power Automate, Power Apps, and Power BI — all powered by AI.",
+                "item2": "Intelligent workflows with built-in AI",
+                "item3": "Full integration with Microsoft Teams and Dynamics 365",
+                "idealFor": "Turning your data into actions and your processes into opportunities."
+            },
+            "card3": {
+                "title": "INTELLIGENT SECURITY PACK",
+                "subtitle": "Prevention, Protection, and Automated Response",
+                "body": "We combine the most powerful tools in the Microsoft ecosystem — Defender, Entra ID, and Azure Sentinel — with AI algorithms capable of detecting threats in real time.",
+                "item1": "AI-powered vulnerability analysis",
+                "item2": "24/7 incident monitoring",
+                "item3": "Predictive alerts and continuous learning",
+                "item4": "Configuration of adaptive security policies",
+                "footer": "Protect your data with intelligence, not reaction."
+            }
+        },
+        "alliancesSection": {
+            "title": "Certified Excellence Alliances",
+            "body": "Microsoft Copilot Studio Certified Partner and strategic alliances to deliver reliable and secure AI solutions."
+        },
+        "blogSection": {
+            "title": "Our Blog And Resources",
+            "subtitle": "Stay informed about AI trends and best practices",
+            "featured": {
+                "badge": "AI Insights",
+                "date": "Oct 25, 2025",
+                "title": "The Future of AI in Business: 5 Trends to Watch in 2025",
+                "body": "Discover how artificial intelligence is reshaping the business landscape and what it means for your organization.",
+                "cta": "Read More"
+            },
+            "list": {
+                "strategy": {
+                    "badge": "Strategy",
+                    "title": "How to Measure ROI from AI Implementation",
+                    "date": "Oct 20, 2025"
+                },
+                "technology": {
+                    "badge": "Technology",
+                    "title": "Microsoft Copilot: A Complete Guide",
+                    "date": "Oct 15, 2025"
+                },
+                "caseStudies": {
+                    "badge": "Case Studies",
+                    "title": "Automation Success Stories",
+                    "date": "Oct 10, 2025"
+                }
+            }
+        },
+        "limitedOfferSection": {
+            "badge": "Limited Time Offer",
+            "titleLine1": "Start Your AI Transformation",
+            "titleLine2": "Today",
+            "subtitle": "Join hundreds of businesses already leveraging AI to grow faster and work smarter",
+            "primaryCta": "Schedule Free Consultation",
+            "secondaryCta": "View Pricing",
+            "footnote": "No credit card required. Get started in minutes."
+        },
+        "aiAssistantContact": {
+            "title": "Get A Digital Assistant For Your Team",
+            "subtitle": "Let's discuss how AI can transform your business",
+            "cardTitle": "24/7 AI Assistant",
+            "cardBody": "Imagine having a tireless digital assistant handling customer inquiries, processing data, and managing workflows while your team focuses on strategic growth.",
+            "bullet1": "Instant response times",
+            "bullet2": "Zero errors or delays",
+            "bullet3": "Scales with your business",
+            "form": {
+                "nameLabel": "Full Name",
+                "namePlaceholder": "John Doe",
+                "emailLabel": "Email Address",
+                "emailPlaceholder": "john@company.com",
+                "companyLabel": "Company Name",
+                "companyPlaceholder": "Your Company",
+                "needsLabel": "Tell us about your needs",
+                "needsPlaceholder": "I'm interested in...",
+                "button": "Send Message"
+            }
+        }
+    },
+    "successStories": {
+        "title": "Our Success Stories",
+        "subtitle": "Hear from businesses we've transformed with AI",
+        "items": {
+            "michaelChen": {
+                "quote": "The automation solutions provided by Celeste iQ have revolutionized how we handle customer service. Response times improved by 75% while maintaining quality.",
+                "name": "Michael Chen",
+                "role": "Operations Director at DataSystems Inc",
+                "initials": "MC"
+            },
+            "sofiaRamirez": {
+                "quote": "Celeste iQ helped us connect siloed systems and unlock real-time insights. Our teams now act on data, not hunches.",
+                "name": "Sofia Ramirez",
+                "role": "Head of Analytics at Nova Group",
+                "initials": "SR"
+            },
+            "davidPark": {
+                "quote": "From onboarding to scale, the experience was seamless. Costs dropped and our customer NPS is at an all-time high.",
+                "name": "David Park",
+                "role": "VP Customer Experience at Helio",
+                "initials": "DP"
+            }
+        }
+    }
+}

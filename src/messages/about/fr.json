@@ -1,0 +1,38 @@
+{
+    "about": {
+        "title": "Accompagner les entreprises grâce à l'automatisation intelligente",
+        "cta": "Planifier une consultation gratuite",
+        "sectionTag": "À PROPOS DE NOUS",
+        "sectionHeading": "Nous offrons aux entreprises des technologies innovantes, des plus petites aux plus grandes",
+        "p1": "Chez CELESTE IQ, nous pensons que la génération de leads doit être intelligente, scalable et simple.",
+        "p2": "Nous ne sommes pas qu’une autre plateforme d’outreach : nous sommes votre moteur de croissance alimenté par l’IA. Conçu pour les recruteurs, les consultants et les prestataires B2B, CELESTE IQ vous aide à automatiser 90 % de votre prospection tout en conservant des conversations humaines qui génèrent des résultats.",
+        "p3": "Nos agents intelligents ne se contentent pas d’envoyer des messages. Ils recherchent, personnalisent, répondent, relancent et prennent des rendez-vous, afin que vous puissiez vous concentrer sur la conclusion des ventes plutôt que sur la chasse aux leads.",
+        "p4": "Avec plus de 300 millions de contacts vérifiés, un outreach multicanal (e-mail, LinkedIn, SMS) et un engagement basé sur le comportement, nous créons des campagnes à forte conversion qui paraissent personnelles – parce qu’elles le sont.",
+        "p5": "Que vous soyez indépendant ou une équipe en pleine croissance, CELESTE IQ vous aide à transformer votre outreach en résultats, sans stress, sans spam et sans tâtonnements.",
+        "p6": "Bienvenue dans le futur de la croissance B2B intelligente",
+        "valuesTitle": "Nos valeurs",
+        "valuesSubtitle": "Nous cherchons à redéfinir le standard d’excellence.",
+        "values": {
+            "collaboration": {
+                "title": "Collaboration",
+                "description": "La collaboration est le processus par lequel deux personnes ou plus, ou plusieurs organisations, travaillent ensemble pour accomplir une tâche ou atteindre un objectif."
+            },
+            "transparency": {
+                "title": "Transparence",
+                "description": "La transparence, notamment en science, consiste à agir de manière à ce qu’il soit facile pour les autres de voir quelles actions sont entreprises."
+            },
+            "trust": {
+                "title": "Confiance",
+                "description": "La confiance nous aide à créer un environnement positif et productif qui apporte de la valeur à nos utilisateurs et à nos clients."
+            },
+            "integrity": {
+                "title": "Intégrité",
+                "description": "L’intégrité consiste à faire preuve d’une adhésion constante et sans compromis à de forts principes moraux et éthiques."
+            }
+        },
+        "teamTag": "NOTRE ÉQUIPE",
+        "teamTitle": "L’expérience et l’intégrité de notre équipe",
+        "teamDescription": "Les bons outils entre les bonnes mains rendent tout possible. Année après année, nous nous efforçons d’inventer les technologies les plus innovantes, conçues par nos équipes créatives.",
+        "teamCta": "Rencontrer notre équipe"
+    }
+}

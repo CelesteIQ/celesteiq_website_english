@@ -1,0 +1,27 @@
+{
+    "contact": {
+        "heroTitle": "Transformemos tu negocio",
+        "heroSubtitle": "¿Listo para adoptar la IA y las tecnologías de Microsoft? Ponte en contacto con nuestro equipo de expertos y comienza hoy mismo tu viaje de transformación digital.",
+        "sectionTitle": "Contáctanos",
+        "sectionDescription": "Nos comprometemos a procesar la información para poder contactarte y hablar sobre tu proyecto.",
+        "emailLabel": "support@celesteiq.com",
+        "addressLabel": "60 Avenue Victor Hugo\n75116, París Francia",
+        "phoneLabel": "+33 1 42 38 98 11",
+        "form": {
+            "namePlaceholder": "Nombre",
+            "emailPlaceholder": "Correo electrónico",
+            "websitePlaceholder": "Sitio web",
+            "messagePlaceholder": "Mensaje",
+            "submit": "Enviar"
+        },
+        "whyChoose": {
+            "title": "¿Por qué elegir CelesteIQ?",
+            "items": [
+                "Expertos certificados por Microsoft con especialización en IA",
+                "Historial comprobado de implementaciones exitosas",
+                "Soporte y optimización continuos",
+                "Enfoque en el retorno de inversión de tus tecnologías"
+            ]
+        }
+    }
+}

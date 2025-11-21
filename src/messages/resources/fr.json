@@ -1,0 +1,51 @@
+{
+    "resources": {
+        "heroTitle": "Ressources CelesteIQ",
+        "heroSubtitle": "Parcours de transformation intelligente. Une méthodologie éprouvée qui vous emmène d’où vous êtes à là où vous voulez aller.",
+        "sectionTitle": "Ressources CelesteIQ",
+        "sectionSubtitle": "Découvrez notre collection d’analyses, de réponses et d’informations sur la transformation digitale pilotée par l’IA.",
+        "cards": {
+            "blog": {
+                "title": "Blog",
+                "description": "Apprenez, explorez et inspirez-vous des dernières tendances en intelligence artificielle et en transformation digitale.",
+                "button": "Explorer les articles"
+            },
+            "faq": {
+                "title": "FAQ",
+                "description": "Trouvez des réponses sur l’IA de CelesteIQ, les solutions Microsoft et nos opérations à l’international.",
+                "button": "Obtenir des réponses"
+            },
+            "legal": {
+                "title": "Mentions légales",
+                "description": "Transparence, confidentialité et confiance dans chaque interaction numérique.",
+                "button": "Voir les détails"
+            }
+        }
+    },
+    "process": {
+        "title": "Notre approche",
+        "subtitle": "Parcours de transformation intelligente. Une méthodologie éprouvée qui vous emmène de là où vous êtes à là où vous voulez aller.",
+        "steps": {
+            "1": {
+                "title": "Évaluation et diagnostic",
+                "description": "Nous analysons votre infrastructure, vos processus et votre culture afin d’identifier les écarts et les opportunités de valeur liées à l’IA. Notre analyse globale offre une vision claire de votre situation actuelle et de votre potentiel."
+            },
+            "2": {
+                "title": "Conception de la stratégie digitale",
+                "description": "Nous élaborons une feuille de route sur mesure pour Microsoft 365, Power Platform et Azure AI, alignée sur vos objectifs business. Nous concevons une stratégie qui équilibre gains rapides et transformation à long terme."
+            },
+            "3": {
+                "title": "Mise en œuvre et automatisation",
+                "description": "Nous intégrons les outils, optimisons les performances et garantissons sécurité et conformité. Notre équipe d’experts gère la complexité technique tout en assurant la continuité de votre activité."
+            },
+            "4": {
+                "title": "Formation et adoption",
+                "description": "Nous accompagnons vos équipes avec des formations complètes et veillons à une intégration fluide des technologies. Nous créons des ambassadeurs internes qui portent l’adoption et l’excellence."
+            },
+            "5": {
+                "title": "Suivi et évolution",
+                "description": "Nous suivons les performances, ajustons les stratégies et stimulons l’innovation continue. Nous assurons un support et une optimisation dans la durée pour maximiser la valeur de vos investissements technologiques."
+            }
+        }
+    }
+}

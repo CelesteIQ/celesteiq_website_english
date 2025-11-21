@@ -1,0 +1,92 @@
+{
+    "specialized": {
+        "specializedHero": {
+            "title": "Specialized Intelligent Services"
+        },
+        "specializedIntro": {
+            "title": "SPECIALIZED SERVICES",
+            "subtitle": "Empower your business with secure, intelligent, and scalable Microsoft solutions — designed, deployed, and managed by CelesteIQ experts",
+            "cta": "Explore Our Audit Services"
+        },
+        "specializedCards": {
+            "training": {
+                "badge": "1. TRAINING PROGRAMS",
+                "title": "Empower Your Team. Master Microsoft 365.",
+                "body": "At CelesteIQ, we help your team become Microsoft experts. Our training programs teach how to configure, automate, and manage Microsoft 365 tools to boost productivity and collaboration.",
+                "item1": "Duration: 4 days (28 hours) — 1 day per week over 4 weeks",
+                "item2": "Format: 100% remote via Microsoft Teams (max. 6 participants)",
+                "item3": "Outcome: Hands-on mastery + Certificate of Participation",
+                "item4": "Access: Open to all Microsoft 365 users",
+                "whyTitle": "Why It Matters:",
+                "whyBody": "Train your employees to get the most out of Microsoft tools — from Teams to Power Automate — and drive digital transformation within your organization.",
+                "btnShort": "Learn & Transform",
+                "btnLong": "Learn. Apply. Transform the way your team works."
+            },
+            "docsMigration": {
+                "badge": "2. DOCUMENT MIGRATION TO MICROSOFT 365",
+                "title": "Secure. Centralized. Future-Ready.",
+                "body": "We make moving your documents to SharePoint, OneDrive, and Teams simple and secure. No data loss, no downtime — just a smooth transition to a smarter cloud environment.",
+                "item1": "Secure data transfer with full compliance",
+                "item2": "Migration of files, folders, and permissions",
+                "item3": "Continuous post-migration support",
+                "item4": "Improved collaboration and data accessibility",
+                "whyTitle": "Why It Matters:",
+                "whyBody": "Modern businesses run on seamless collaboration. We make your move to Microsoft 365 effortless — so your teams can focus on what really matters.",
+                "btnShort": "Migrate with Confidence",
+                "btnLong": "Migrate with confidence. Work smarter in the cloud."
+            },
+            "emailMigration": {
+                "badge": "3. EMAIL MIGRATION SERVICES",
+                "title": "Stay Connected. Stay Protected.",
+                "body": "Upgrade your email system to Microsoft Exchange Online with zero disruption. We handle everything — setup, migration, DNS, and user training — so your communication never stops.",
+                "item1": "Configure users, licenses & shared mailboxes",
+                "item2": "Migrate emails, contacts, calendars",
+                "item3": "Set up DNS, DKIM, DMARC, SPF & AutoDiscover",
+                "item4": "Enable Multi-Factor Authentication for security",
+                "item5": "Train your team on Outlook & best practices",
+                "whyTitle": "Why It Matters:",
+                "whyBody": "Email is the core of your business communication. We ensure it’s secure, reliable, and easy to manage.",
+                "btnShort": "Simplify Email",
+                "btnLong": "Simplify your email systems with CelesteIQ"
+            },
+            "managedIt": {
+                "badge": "4. MANAGED IT & CLOUD SERVICES",
+                "title": "Your Trusted Microsoft Ecosystem Partner.",
+                "body": "From Microsoft 365 and Azure to Dynamics 365 and Power BI, we manage your IT ecosystem end-to-end. Our team ensures everything stays secure, optimized, and scalable — so you can grow without limits.",
+                "item1": "Full infrastructure assessment & optimization",
+                "item2": "Microsoft 365, Azure, Dynamics 365 & Power BI management",
+                "item3": "Real-time monitoring & predictive maintenance",
+                "item4": "Tailored support and training for your team",
+                "item5": "Continuous consulting and technical guidance",
+                "whyTitle": "Why It Matters:",
+                "whyBody": "Managed IT means peace of mind. With CelesteIQ, your systems run smoothly, securely, and strategically aligned with your business goals.",
+                "btnShort": "Manage with CelesteIQ",
+                "btnLong": "Let us manage your cloud — so you can manage your growth."
+            }
+        }
+    },
+    "whyCelesteIQ": {
+        "title": "Why CelesteIQ",
+        "subtitle": "The Human + AI Advantage",
+        "quote": "“Simplifying digital transformation, one intelligent solution at a time.”",
+        "cta": "Start Your Transformation",
+        "features": {
+            "microsoftExperts": {
+                "title": "Microsoft-Certified Experts",
+                "desc": "Industry-recognized professionals with deep Microsoft ecosystem knowledge"
+            },
+            "aiMonitoring": {
+                "title": "AI-Powered Monitoring",
+                "desc": "Intelligent automation and predictive optimization for peak performance"
+            },
+            "humanSupport": {
+                "title": "Human Support",
+                "desc": "Dedicated experts who understand your unique business needs"
+            },
+            "flexibleScalable": {
+                "title": "Flexible & Scalable",
+                "desc": "Solutions designed to grow with your SMB, no limits"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "legal": {
+        "heroTitle": "Mentions légales",
+        "sectionTitle": "Mentions légales",
+        "sectionSubtitle": "Transparence, confidentialité et confiance dans chaque interaction numérique.",
+        "sectionSubtitleLinkLabel": "Référence légale officielle :",
+        "siteOwner": {
+            "title": "Propriétaire du site",
+            "companyLabel": "Entreprise :",
+            "company": "CelesteIQ",
+            "legalNameLabel": "Dénomination légale :",
+            "legalName": "CelesteIQ Technologies, Inc.",
+            "businessTypeLabel": "Activité :",
+            "businessType": "Conseil technologique et services de transformation digitale"
+        },
+        "dataProtection": {
+            "title": "Protection des données",
+            "p1": "CelesteIQ s’engage à protéger la vie privée de ses clients et visiteurs. Les données collectées sont utilisées uniquement pour le contact et l’amélioration des services, conformément au RGPD.",
+            "p2": "Nous mettons en œuvre des mesures de sécurité conformes aux standards de l’industrie afin de protéger vos informations et garantir un traitement licite, loyal et transparent."
+        },
+        "intellectualProperty": {
+            "title": "Propriété intellectuelle",
+            "p1": "L’ensemble du contenu de ce site, y compris sans s’y limiter les logos, textes, graphiques, images et logiciels, est la propriété de CelesteIQ et est protégé par les lois internationales sur le droit d’auteur.",
+            "p2": "Toute reproduction, distribution ou modification non autorisée du contenu de ce site est strictement interdite sans l’autorisation écrite préalable de CelesteIQ."
+        },
+        "cookiePolicy": {
+            "title": "Politique de cookies",
+            "p1": "Ce site utilise des cookies techniques et d’analyse afin d’améliorer votre expérience de navigation. Ces cookies nous aident à comprendre comment les visiteurs interagissent avec notre site et nous permettent d’améliorer nos services.",
+            "p2": "En continuant à utiliser ce site, vous acceptez notre utilisation des cookies conformément à notre politique de confidentialité."
+        },
+        "contactSection": {
+            "title": "Contact",
+            "body": "Pour toute question juridique ou relative à la confidentialité, veuillez nous contacter à l’adresse suivante :",
+            "emailLabel": "legal@celesteiq.com"
+        }
+    }
+}

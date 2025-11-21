@@ -1,0 +1,54 @@
+{
+    "solutions": {
+        "heroSolutions": {
+            "title": "Soluciones de Microsoft impulsadas por Inteligencia Artificial",
+            "subtitle": "CelesteIQ ayuda a las empresas a ser más productivas, automatizadas y rentables mediante la integración fluida del ecosistema de Microsoft y la innovación basada en IA.",
+            "cta": "Agenda una consulta gratuita"
+        },
+        "areas": {
+            "title": "Nuestras áreas de solución",
+            "subtitle": "Explora las soluciones que ofrecemos para digitalizar, automatizar y hacer más inteligente cada parte de tu empresa.",
+            "cards": {
+                "1": {
+                    "title": "Transformación digital inteligente",
+                    "desc": "Integración de Microsoft 365, Teams y Copilot para modernizar tu lugar de trabajo y potenciar a tus equipos con colaboración impulsada por IA."
+                },
+                "2": {
+                    "title": "Analítica de datos y automatización",
+                    "desc": "Power BI, Power Automate y Azure AI para convertir los datos en información accionable y automatizar procesos repetitivos."
+                },
+                "3": {
+                    "title": "Infraestructura en la nube y virtualización",
+                    "desc": "Soluciones en Azure Cloud para una infraestructura escalable, segura y de alto rendimiento que crece con tu negocio."
+                },
+                "4": {
+                    "title": "Aplicaciones empresariales inteligentes",
+                    "desc": "Dynamics 365 y Power Apps para crear aplicaciones empresariales a medida que se adaptan a tus flujos de trabajo."
+                }
+            }
+        },
+        "advanced": {
+            "title": "Soluciones especializadas y avanzadas",
+            "subtitle": "Combinamos el poder de la IA de Microsoft con nuestras capacidades de integración para desarrollar soluciones a medida:",
+            "cards": {
+                "1": "Asistentes virtuales personalizados",
+                "2": "Analítica predictiva",
+                "3": "Automatización de procesos",
+                "4": "Copilots empresariales"
+            }
+        },
+        "industry": {
+            "title": "Soluciones específicas por industria",
+            "subtitleLine1": "Cada sector tiene sus propios retos.",
+            "subtitleLine2": "En CelesteIQ aplicamos la IA y la tecnología de Microsoft para resolverlos con precisión.",
+            "cards": {
+                "financeTitle": "Finanzas y seguros",
+                "financeText": "Soluciones seguras, compatibles e inteligentes para servicios financieros.",
+                "healthTitle": "Salud y bienestar",
+                "healthText": "Sistemas compatibles con HIPAA y asistencia al paciente impulsada por IA.",
+                "manufacturingTitle": "Manufactura y bienes raíces",
+                "manufacturingText": "Optimice las operaciones y aumente la productividad con automatización inteligente."
+            }
+        }
+    }
+}

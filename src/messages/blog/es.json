@@ -1,0 +1,11 @@
+{
+    "blog": {
+        "title": "Recursos / Blogs"
+    },
+    "blogIntro": {
+        "title": "BLOG",
+        "subtitle1": "Aprende, explora e inspírate con las últimas tendencias en Inteligencia Artificial y Transformación Digital.",
+        "subtitle2": "Nuestro blog es un espacio donde compartimos casos reales, estrategias de implementación, novedades del ecosistema de Microsoft y consejos prácticos para líderes que quieren adoptar la automatización inteligente.",
+        "ctablog": "Explorar artículos"
+    }
+}

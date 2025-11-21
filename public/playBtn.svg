@@ -1,0 +1,25 @@
+<svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-47.9605" y="-47.9605" width="208.921" height="208.921"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(23.98px);clip-path:url(#bgblur_0_314_1434_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="47.9605">
+<circle cx="56.5" cy="56.5" r="56.5" fill="white" fill-opacity="0.19"/>
+<circle cx="56.5" cy="56.5" r="56.1003" stroke="white" stroke-opacity="0.3" stroke-width="0.799342"/>
+</g>
+<foreignObject x="-36.6197" y="-36.6207" width="186.24" height="186.24"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(23.98px);clip-path:url(#bgblur_1_314_1434_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="47.9605">
+<circle cx="56.5006" cy="56.4996" r="45.1597" fill="white" fill-opacity="0.19"/>
+<circle cx="56.5006" cy="56.4996" r="44.7601" stroke="white" stroke-opacity="0.3" stroke-width="0.799342"/>
+</g>
+<foreignObject x="-25.8907" y="-25.8922" width="164.783" height="164.783"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(23.98px);clip-path:url(#bgblur_2_314_1434_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="47.9605">
+<circle cx="56.5008" cy="56.4993" r="34.431" fill="white" fill-opacity="0.19"/>
+<circle cx="56.5008" cy="56.4993" r="34.0313" stroke="white" stroke-opacity="0.3" stroke-width="0.799342"/>
+</g>
+<mask id="mask0_314_1434" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="20" y="20" width="73" height="73">
+<rect x="20.7173" y="20.6504" width="71.5655" height="71.5655" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_314_1434)">
+<path d="M44.5728 77.3061V35.5596L77.3736 56.4328L44.5728 77.3061Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_314_1434_clip_path" transform="translate(47.9605 47.9605)"><circle cx="56.5" cy="56.5" r="56.5"/>
+</clipPath><clipPath id="bgblur_1_314_1434_clip_path" transform="translate(36.6197 36.6207)"><circle cx="56.5006" cy="56.4996" r="45.1597"/>
+</clipPath><clipPath id="bgblur_2_314_1434_clip_path" transform="translate(25.8907 25.8922)"><circle cx="56.5008" cy="56.4993" r="34.431"/>
+</clipPath></defs>
+</svg>

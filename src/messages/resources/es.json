@@ -1,0 +1,51 @@
+{
+    "resources": {
+        "heroTitle": "Recursos de CelesteIQ",
+        "heroSubtitle": "Viaje de transformación inteligente. Una metodología probada que te lleva desde donde estás hasta donde quieres estar.",
+        "sectionTitle": "Recursos de CelesteIQ",
+        "sectionSubtitle": "Explora nuestra colección de ideas, respuestas e información sobre la transformación digital impulsada por IA.",
+        "cards": {
+            "blog": {
+                "title": "Blog",
+                "description": "Aprende, explora e inspírate con las últimas tendencias en inteligencia artificial y transformación digital.",
+                "button": "Explorar artículos"
+            },
+            "faq": {
+                "title": "FAQ",
+                "description": "Encuentra respuestas sobre la IA de CelesteIQ, las soluciones de Microsoft y nuestras operaciones globales.",
+                "button": "Ver respuestas"
+            },
+            "legal": {
+                "title": "Avisos legales",
+                "description": "Transparencia, privacidad y confianza en cada interacción digital.",
+                "button": "Ver detalles"
+            }
+        }
+    },
+    "process": {
+        "title": "Nuestro proceso",
+        "subtitle": "Viaje de transformación inteligente. Una metodología probada que te lleva desde donde estás hasta donde quieres estar.",
+        "steps": {
+            "1": {
+                "title": "Evaluación y diagnóstico",
+                "description": "Analizamos tu infraestructura, procesos y cultura para identificar brechas y oportunidades de valor con IA. Nuestro análisis integral ofrece una visión clara de dónde estás y hasta dónde puedes llegar."
+            },
+            "2": {
+                "title": "Diseño de estrategia digital",
+                "description": "Creamos una hoja de ruta personalizada para Microsoft 365, Power Platform y Azure AI alineada con tus objetivos de negocio. Diseñamos una estrategia que equilibra resultados rápidos con una transformación a largo plazo."
+            },
+            "3": {
+                "title": "Implementación y automatización",
+                "description": "Integramos herramientas, optimizamos el rendimiento y garantizamos seguridad y cumplimiento. Nuestro equipo experto se encarga de la complejidad técnica mientras tu negocio sigue funcionando con normalidad."
+            },
+            "4": {
+                "title": "Formación y adopción",
+                "description": "Acompañamos a tus equipos con formación completa y facilitamos una adopción fluida de la tecnología. Creamos referentes internos que impulsan la adopción y la excelencia."
+            },
+            "5": {
+                "title": "Monitorización y evolución",
+                "description": "Medimos el rendimiento, ajustamos la estrategia y fomentamos la innovación continua. Ofrecemos soporte y optimización constantes para que tu inversión tecnológica genere valor sostenible."
+            }
+        }
+    }
+}

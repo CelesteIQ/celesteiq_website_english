@@ -1,0 +1,75 @@
+{
+    "smartAudits": {
+        "heroTitle": "Smart Audits for Digital Evolution",
+        "sectionTitle": "Intelligent Audit Services",
+        "sectionSubtitle": "Diagnosis, vision, and strategy for your company's digital evolution.",
+        "sectionBody": "At CelesteIQ, we believe that true digital transformation begins with clarity. Our intelligent audits combine expert knowledge of the Microsoft ecosystem with advanced AI-powered analysis to give you a real view of your company's technological state and help you build a solid strategy for the future. An audit is not just a technical review — it's the starting point for a smarter, safer, and more efficient business.",
+        "sectionCta": "Explore Our Audit Services",
+        "iwaTitle": "Intelligent Modern Workplace Audit",
+        "iwaSubtitle": "Evaluate how your team works and discover how they can do it better.",
+        "iwaBody": "Microsoft 365 is an incredibly powerful platform, but many companies only use 20–30% of its capabilities. Our Modern Workplace Audit analyzes in detail how your team uses tools like Teams, SharePoint, OneDrive, Outlook, and Copilot, and reveals opportunities for optimization that can transform your company's operational efficiency.",
+        "iwaWhatWeEvaluateTitle": "What do we evaluate?",
+        "iwaEvaluatePoints": {
+            "1": "Adoption and use of Microsoft 365 tools",
+            "2": "Collaboration, file-sharing, and meeting strategies",
+            "3": "Integration with Copilot and intelligent automation",
+            "4": "Team structures, permissions, and governance",
+            "5": "Unused or poorly leveraged applications",
+            "6": "User experience and workflow optimization"
+        },
+        "iwaWhatYouReceiveTitle": "What do you receive?",
+        "iwaReceivePoints": {
+            "1": "Detailed visual report with usage metrics and AI-detected patterns",
+            "2": "Specific recommendations to improve collaboration and productivity",
+            "3": "Adoption roadmap with prioritized quick wins",
+            "4": "Copilot readiness assessment",
+            "5": "Support in implementing improvements"
+        },
+        "iwaCta": "Request your Intelligent Modern Workplace Audit",
+        "iwaCardOptimized": "Optimized",
+        "isaTitle": "Intelligent Security Audit",
+        "isaSubtitle": "Active protection, informed decisions.",
+        "isaBody": "Security is no longer optional — it's a strategic priority. Our Intelligent Security Audit evaluates your Microsoft 365 environment, Azure, and Entra ID with an AI-powered lens, identifying vulnerabilities, detecting anomalies, and simulating real-world attack scenarios before they happen. We don't just deliver a report: we help you build a resilient digital security culture.",
+        "isaAnalyzeTitle": "What do we analyze?",
+        "isaAnalyzePoints": {
+            "1": "Conditional Access and identity policies (Entra ID)",
+            "2": "Multi-factor authentication and zero-trust strategy",
+            "3": "Data protection and DLP (Data Loss Prevention)",
+            "4": "User permissions and privileged access control",
+            "5": "Threat detection and anomalous behavior patterns",
+            "6": "Regulatory compliance (GDPR, ISO, etc.)",
+            "7": "Automated response to security incidents"
+        },
+        "isaReceiveTitle": "What do you receive?",
+        "isaReceivePoints": {
+            "1": "Comprehensive security diagnosis with risk maps",
+            "2": "AI-powered threat and anomaly detection",
+            "3": "Prioritized action plan to strengthen your security",
+            "4": "Support in implementing critical policies",
+            "5": "Training and awareness for your team"
+        },
+        "isaCta": "Schedule your Intelligent Security Audit",
+        "whyTitle": "Why Conduct an Audit with CelesteIQ?",
+        "whySubtitle": "Understanding your environment is the first step to mastering it.",
+        "whyCards": {
+            "1": {
+                "title": "Comprehensive vision",
+                "description": "We evaluate not only what you have, but how you use it, and how you can improve it."
+            },
+            "2": {
+                "title": "Predictive approach",
+                "description": "We use AI to identify patterns, anomalies, and opportunities before they become problems."
+            },
+            "3": {
+                "title": "Actionable recommendations",
+                "description": "We don’t deliver theory: every audit includes a clear, prioritized action plan."
+            },
+            "4": {
+                "title": "Expert guidance",
+                "description": "Our team has years of experience in Microsoft solutions and digital transformation strategies."
+            }
+        },
+        "whyCtaMain": "Talk to a CelesteIQ consultant",
+        "whyCtaTail": "and schedule your free AI diagnosis"
+    }
+}

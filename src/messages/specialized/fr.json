@@ -1,0 +1,92 @@
+{
+    "specialized": {
+        "specializedHero": {
+            "title": "Services intelligents spécialisés"
+        },
+        "specializedIntro": {
+            "title": "SERVICES SPÉCIALISÉS",
+            "subtitle": "Donnez plus de puissance à votre entreprise avec des solutions Microsoft sécurisées, intelligentes et évolutives — conçues, déployées et gérées par les experts CelesteIQ",
+            "cta": "Découvrir nos services d’audit"
+        },
+        "specializedCards": {
+            "training": {
+                "badge": "1. PROGRAMMES DE FORMATION",
+                "title": "Donnez du pouvoir à vos équipes. Maîtrisez Microsoft 365.",
+                "body": "Chez CelesteIQ, nous aidons vos équipes à devenir des experts Microsoft. Nos programmes de formation apprennent à configurer, automatiser et administrer les outils Microsoft 365 pour renforcer la productivité et la collaboration.",
+                "item1": "Durée : 4 jours (28 heures) — 1 jour par semaine pendant 4 semaines",
+                "item2": "Format : 100 % à distance via Microsoft Teams (6 participants maximum)",
+                "item3": "Résultat : Maîtrise pratique + Certificat de participation",
+                "item4": "Accès : Ouvert à tous les utilisateurs de Microsoft 365",
+                "whyTitle": "Pourquoi c’est important :",
+                "whyBody": "Formez vos collaborateurs pour tirer le meilleur parti des outils Microsoft — de Teams à Power Automate — et porter la transformation numérique de votre organisation.",
+                "btnShort": "Apprendre & Transformer",
+                "btnLong": "Apprenez. Appliquez. Transformez la façon dont votre équipe travaille."
+            },
+            "docsMigration": {
+                "badge": "2. MIGRATION DE DOCUMENTS VERS MICROSOFT 365",
+                "title": "Sécurisé. Centralisé. Prêt pour l’avenir.",
+                "body": "Nous simplifions et sécurisons le transfert de vos documents vers SharePoint, OneDrive et Teams. Aucun perte de données, aucun arrêt — une transition fluide vers un environnement cloud plus intelligent.",
+                "item1": "Transfert de données sécurisé et pleinement conforme",
+                "item2": "Migration des fichiers, dossiers et autorisations",
+                "item3": "Support continu après la migration",
+                "item4": "Collaboration et accès à l’information améliorés",
+                "whyTitle": "Pourquoi c’est important :",
+                "whyBody": "Les entreprises modernes reposent sur une collaboration fluide. Nous facilitons votre passage à Microsoft 365 pour que vos équipes se concentrent sur l’essentiel.",
+                "btnShort": "Migrer en toute confiance",
+                "btnLong": "Migrez en toute confiance. Travaillez plus intelligemment dans le cloud."
+            },
+            "emailMigration": {
+                "badge": "3. SERVICES DE MIGRATION D’EMAIL",
+                "title": "Restez connecté. Restez protégé.",
+                "body": "Faites évoluer votre messagerie vers Microsoft Exchange Online sans interruption. Nous gérons tout — configuration, migration, DNS et formation des utilisateurs — pour que votre communication ne s’arrête jamais.",
+                "item1": "Configuration des utilisateurs, licences et boîtes partagées",
+                "item2": "Migration des emails, contacts et calendriers",
+                "item3": "Mise en place de DNS, DKIM, DMARC, SPF et AutoDiscover",
+                "item4": "Activation de l’authentification multifacteur pour plus de sécurité",
+                "item5": "Formation de vos équipes à Outlook et aux bonnes pratiques",
+                "whyTitle": "Pourquoi c’est important :",
+                "whyBody": "L’email est au cœur de la communication de votre entreprise. Nous veillons à ce qu’il soit sécurisé, fiable et simple à administrer.",
+                "btnShort": "Simplifier l’email",
+                "btnLong": "Simplifiez vos systèmes de messagerie avec CelesteIQ"
+            },
+            "managedIt": {
+                "badge": "4. SERVICES MANAGÉS IT & CLOUD",
+                "title": "Votre partenaire de confiance pour l’écosystème Microsoft.",
+                "body": "De Microsoft 365 et Azure à Dynamics 365 et Power BI, nous gérons votre écosystème IT de bout en bout. Notre équipe garantit un environnement sécurisé, optimisé et évolutif — pour vous permettre de grandir sans limites.",
+                "item1": "Évaluation complète et optimisation de l’infrastructure",
+                "item2": "Gestion de Microsoft 365, Azure, Dynamics 365 et Power BI",
+                "item3": "Supervision en temps réel et maintenance prédictive",
+                "item4": "Support et formation adaptés à vos équipes",
+                "item5": "Conseil continu et accompagnement technique",
+                "whyTitle": "Pourquoi c’est important :",
+                "whyBody": "Un IT managé, c’est la tranquillité d’esprit. Avec CelesteIQ, vos systèmes fonctionnent de manière fluide, sécurisée et alignée stratégiquement sur vos objectifs métier.",
+                "btnShort": "Gérer avec CelesteIQ",
+                "btnLong": "Laissez-nous gérer votre cloud — pour que vous puissiez gérer votre croissance."
+            }
+        }
+    },
+    "whyCelesteIQ": {
+        "title": "Pourquoi CelesteIQ",
+        "subtitle": "L’alliance de l’Humain et de l’IA",
+        "quote": "« Simplifier la transformation digitale, une solution intelligente à la fois. »",
+        "cta": "Commencez votre transformation",
+        "features": {
+            "microsoftExperts": {
+                "title": "Experts certifiés Microsoft",
+                "desc": "Des professionnels reconnus avec une expertise approfondie de l’écosystème Microsoft"
+            },
+            "aiMonitoring": {
+                "title": "Supervision pilotée par l’IA",
+                "desc": "Automatisation intelligente et optimisation prédictive pour des performances maximales"
+            },
+            "humanSupport": {
+                "title": "Accompagnement humain",
+                "desc": "Des experts dédiés qui comprennent les besoins uniques de votre entreprise"
+            },
+            "flexibleScalable": {
+                "title": "Flexible et évolutif",
+                "desc": "Des solutions conçues pour évoluer avec votre PME, sans limite"
+            }
+        }
+    }
+}

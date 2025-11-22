@@ -18,7 +18,6 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 
-// Markdown + highlighting (same style as your previous component)
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeHighlight from "rehype-highlight";
@@ -48,6 +47,15 @@ export default function ChatWidget() {
   const [messages, setMessages] = React.useState<Message[]>(initialMessages);
   const [input, setInput] = React.useState("");
   const [loading, setLoading] = React.useState(false);
+
+  // 🔥 NEW: ref for auto-scroll
+  const bottomRef = React.useRef<HTMLDivElement | null>(null);
+
+  // 🔥 NEW: whenever messages change, scroll to bottom
+  React.useEffect(() => {
+    if (!open) return; // only scroll if chat is open
+    bottomRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages, open]);
 
   async function handleAsk() {
     if (!input.trim() || loading) return;
@@ -164,6 +172,9 @@ export default function ChatWidget() {
                       Hi, how are you?
                     </p>
                   )}
+
+                  {/* 🔥 NEW: scroll target */}
+                  <div ref={bottomRef} />
                 </div>
               </ScrollArea>
 
@@ -272,8 +283,9 @@ function MessageBubble({ message }: { message: Message }) {
 
   return (
     <div
-      className={`flex items-start gap-2 ${isBot ? "" : "justify-end text-right"
-        }`}
+      className={`flex items-start gap-2 ${
+        isBot ? "" : "justify-end text-right"
+      }`}
     >
       {/* Avatar */}
       {isBot ? (
@@ -288,10 +300,11 @@ function MessageBubble({ message }: { message: Message }) {
 
       {/* Bubble */}
       <div
-        className={`max-w-[80%] rounded-2xl px-3.5 py-2.5 leading-relaxed ${isBot
+        className={`max-w-[80%] rounded-2xl px-3.5 py-2.5 leading-relaxed ${
+          isBot
             ? "bg-orange-50 text-slate-800 ring-1 ring-orange-200"
             : "bg-white text-slate-900 ring-1 ring-slate-200"
-          }`}
+        }`}
       >
         {isBot ? (
           <div className="prose prose-xs sm:prose-sm max-w-none dark:prose-invert">

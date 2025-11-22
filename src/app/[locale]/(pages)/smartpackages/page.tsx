@@ -410,6 +410,9 @@ export default function SmartPackages() {
                     data-aos="fade-up"
                     data-aos-delay="60"
                 >
+                    <h2 className="mt-3 text-4xl sm:text-5xl capitalize text-center md:mb-10 mb-5 font-semibold tracking-tight text-slate-900">
+                        packages
+                    </h2>
                     <div
                         className="rounded-[28px] bg-white md:p-8 p-4 shadow-[0_24px_60px_rgba(2,6,23,0.08)] ring-1 ring-black/5"
                         data-aos="fade-up"

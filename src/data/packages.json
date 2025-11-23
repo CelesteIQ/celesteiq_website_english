@@ -158,14 +158,25 @@
     "packageSuggestionRules": [
       {
         "targetPackageId": "pack-1",
-        "description": "Suggest IT Administrator Pack for IT management, uptime, or support needs.",
+        "description": "Suggest IT Administrator Pack for IT management, uptime, support, or core Microsoft 365 administration (including email migration).",
         "triggers": [
-          "IT management",
+          "it management",
           "stability",
           "uptime",
           "support",
-          "Microsoft 365 administration",
-          "Azure administration"
+          "microsoft 365 administration",
+          "azure administration",
+          "email migration",
+          "migrate my emails",
+          "migrate our emails",
+          "migrate exchange",
+          "move our mailboxes",
+          "migration de courriel",
+          "migration des emails",
+          "migración de correo",
+          "migración de emails",
+          "migrar mis correos",
+          "migrar nuestros correos"
         ]
       },
       {

@@ -44,14 +44,14 @@ export default function Navbar() {
   return (
     <header className="w-full absolute top-0 left-0">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="flex h-16 items-center justify-between">
+        <div className="flex h-20 md:h-24 items-center justify-between">
           {/* Brand */}
           <Link href="/" className="flex items-center gap-3" aria-label="Home">
             <Image
-              src="/weblogo.svg"
-              width={100}
-              height={100}
-              className="w-auto h-8"
+              src="/logo2.png"
+              width={200}
+              height={200}
+              className="w-auto md:h-24 h-16"
               alt="logo"
             />
           </Link>
@@ -182,16 +182,16 @@ export default function Navbar() {
                 <SheetHeader>
                   <SheetTitle className="text-left">
                     <Image
-                      src="/weblogo.svg"
-                      width={100}
-                      height={100}
-                      className="w-auto h-8 invert"
+                      src="/logo2.png"
+                      width={200}
+                      height={200}
+                      className="w-auto h-24 invert"
                       alt="logo"
                     />
                   </SheetTitle>
                 </SheetHeader>
 
-                <div className="mt-6 p-3 flex flex-col gap-3">
+                <div className=" p-3 flex flex-col gap-3">
                   <Link
                     href="/solutions"
                     onClick={() => setOpen(false)}

@@ -63,7 +63,7 @@ export async function POST(req: Request) {
     });
 
     const CONTACT_EMAIL =
-      process.env.NEXT_PUBLIC_SUPPORT_EMAIL || "support@celesteiq.com";
+      process.env.NEXT_PUBLIC_SUPPORT_EMAIL || "hello@celesteiq.com";
 
     const systemInstruction = `
 You are the CelesteIQ Assistant, acting as a presales consultant.

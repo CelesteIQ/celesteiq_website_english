@@ -116,10 +116,10 @@ export default function Footer() {
                             <li className="flex items-start gap-3">
                                 <Mail className="mt-0.5 h-4 w-4 text-[#FF7A00]" />
                                 <Link
-                                    href="mailto:support@celesteiq.com"
+                                    href="mailto:hello@celesteiq.com"
                                     className="hover:text-white transition-colors"
                                 >
-                                    support@celesteiq.com
+                                    hello@celesteiq.com
                                 </Link>
                             </li>
 
